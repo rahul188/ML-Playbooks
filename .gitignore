@@ -1,0 +1,5 @@
+env
+venv
+newrelic.ini
+ride*
+.DS_Store
